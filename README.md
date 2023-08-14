@@ -12,7 +12,7 @@ For the most optimized version, the following convolution matrix was used to rep
 
 ![image](https://github.com/Beniam-Kumela/reaction-diffusion-py/assets/106757076/7c19561e-3015-4bed-b529-dbbe783d9fb7)
 
-Circles were drawn using the [Midpoint Circle Algorithm](https://en.wikipedia.org/wiki/Midpoint_circle_algorithm) and [here](https://www.karlsims.com/rd.html) is more information about the Gray-Scott model.
+Circles were rastered using the [Midpoint Circle Algorithm](https://en.wikipedia.org/wiki/Midpoint_circle_algorithm) and [here](https://www.karlsims.com/rd.html) is more information about the Gray-Scott model.
 
 There is also a GIF generator of this diffusion model for those that are interested (video.py). This is not compiled into an .exe as the simulator is but is capable of calculating more iterations with higher quality resolutions and more customization.
 
